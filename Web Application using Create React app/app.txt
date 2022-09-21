@@ -1,1 +1,0 @@
-in app we collect data of users
