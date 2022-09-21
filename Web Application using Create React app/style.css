@@ -1,0 +1,24 @@
+@layer utilities {
+    .content-auto {
+      content-visibility: auto;
+    }
+    .test{
+        background: #222;
+    }
+  }
+  .rounded-lg {
+    border-radius: 18px;
+    text-align: center;
+    margin-left: 50%;
+    margin-right: 75%;
+    align-items: center;
+    border: 2px solid white;
+}
+.text-cusBG2 {
+  --tw-text-opacity: 1;
+    background-color:rgb(2, 56, 117)
+    cu
+}
+h4{
+  color: azure;
+}
