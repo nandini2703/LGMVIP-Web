@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+}
+::-webkit-scrollbar {
+    width: 5px;
+}
+  
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: #8eb344; 
+    border-radius: 5px;
+  }
+  
+
+.container{
+    width: 91%;
+    margin-left: 5%;
+    border-radius: 50px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+}
+.col{
+    height: 700px;
+    margin-top: 30px;
+    border-radius: 50px;
+    width: 48%;
+    display: inline-block;
+}
+
+.row{
+    width: 100%;
+}
+
+.c1{
+    background-color:#cce1ff ;
+    border: 4px #0b0b0b solid;
+    color: #0a0a0a;
+}
+
+.c2{
+    margin-left: 20px;
+    background-color: #c5effb;
+    border: 4px #0a0a0a solid;
+}
+
+h1{
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 39px;
+    font-style: normal;
+    
+}
+span{
+    size: 50px;
+}
+.material-symbols-outlined {
+    font-family: 'Material Symbols Outlined';
+    font-weight: bold;
+    font-style: normal;
+    font-size: 50px;
+    line-height: 3;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -moz-font-feature-settings: 'liga';
+}
+td{
+    text-align: left;
+    margin: 10px;
+    font-size: 20px;
+    font-family: 'Amiri Quran', serif;
+    
+}
+
+table{
+    width: 60%;
+    margin-left: 35px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: 'Amiri Quran', serif;
+}
+
+.a{
+    width: 55%;
+}
+
+.c{
+    height: 50px;
+}
+
+.d{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.e{
+    width: 200px;
+    height: 50px;
+    margin-left: 15%;
+    border-radius: 18px;
+    background-color: #09f1f9;
+    border: 3px #003b3c solid;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: 'Amiri Quran', serif;
+    
+    
+}
+
+.r{
+    background-color: #ea7c51;
+    border: 3px #641301 solid;
+}
+
+.h{
+    height: 60px;
+    margin-bottom: 5px;
+}
+
+.f,.g{
+    margin-left: 5px;
+    margin-right: 3px;
+}
+.b{
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+span{
+    margin-right: 15px;
+}
+
+.c2{
+    text-align: left;
+    overflow-y: scroll;
+}
+
+.s1{
+    background-color: #d8e5fd;
+    width: 70%;
+    margin-top:15px;
+    margin-left: 15%;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 40, 96);
+}
+
+img{
+    padding: 10px;
+    margin-left: 70px;
+    width: 100px;
+    height: 100px;
+}
+
+p{
+    margin-bottom: 3px;
+}
+
+input{
+    text-align: center;
+}
